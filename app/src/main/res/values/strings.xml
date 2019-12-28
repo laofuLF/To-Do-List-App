@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="lifeTitle">Life</string>
+    <string name="workTitle">Work</string>
+    <string name="life1">water flowers</string>
+    <string name="life2">buy groceries</string>
+    <string name="life3">work out</string>
+    <string name="work1">finish SWE 246P</string>
+    <string name="work2">call client</string>
+    <string name="work3">meet with team</string>
+    <string name="MyToDoList">My ToDo List: </string>
+    <string name="work">WORK: </string>
+    <string name="life">LIFE: </string>
+    <string name="details">details</string>
+    <string-array name="status">
+        <item>ToDo</item>
+        <item>Doing</item>
+        <item>Done</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
